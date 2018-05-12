@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: Sequel to Shod with Silence; followed by In the Days of the Pioneers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23026#The-Phantom-of-the-River
 gutenberg_issued: '2007-10-13'
 gutenberg_type: Text
 identifiers:
